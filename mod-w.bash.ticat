@@ -1,0 +1,7 @@
+help = get message from arg then pass it to env
+
+[args]
+msg = ''
+
+[env]
+mymsg = write

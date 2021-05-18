@@ -1,2 +1,2 @@
 # quick-start.ticat
-A ticat mods repo: quick start demo
+A ticat mods repo: ticat quick-start demo

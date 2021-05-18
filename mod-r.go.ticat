@@ -1,0 +1,4 @@
+help = receive message from env
+
+[env]
+mymsg = read
